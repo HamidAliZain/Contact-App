@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { ToastContainer } from "react-toastify"
 import { Navbar } from './Component/nav';
-import { Link, Route, Routes } from 'react-router-dom';
+import {  Route, Routes } from 'react-router-dom';
 import { Edit } from './Component/edit';
 import { Home } from './Component/home';
 import { Addcontact } from './Component/Addcomponent';
