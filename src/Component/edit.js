@@ -60,7 +60,7 @@ export const Edit = () => {
       number,
     };
     dispatch({ type: "UPDATED_CONTACT", payload: data });
-    toast.success("UPDATED CONTACT Succesfully");
+    toast.success("Updated Contact Succesfully");
     navigate("/");
   };
 

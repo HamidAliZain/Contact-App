@@ -8,7 +8,7 @@ export const Home = () => {
 
 const deletContact = (id)=>{
     dipatch({type:"DELET",payload:id})
-    toast.success("ddd")
+    toast.success("Successfully deleted")
 }
  
 
