@@ -108,7 +108,7 @@ export const Edit = () => {
                     Updarted
                   </button>
 
-                  <Link className="my-2 btn btn-danger mx-5" to="/">
+                  <Link className="my-2 btn btn-danger mx-4" to="/">
                     cancel
                   </Link>
                 </div>
