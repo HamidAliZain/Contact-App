@@ -21,7 +21,7 @@ export const Home = () => {
           </Link>
         </div>
 
-        <div className=" col-md-10 ">
+        <div className=" col-md-10 mx-auto">
           <table className="table table-hover media-size ">
             <thead>
               <tr>
